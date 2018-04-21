@@ -1,0 +1,12 @@
+## Interface: 80000
+
+## Title: Lib |cFFA330C9Azerite|r Data
+## Author: Aethys
+## Version: 8.0
+## Notes: Make easily accessible Azerite Items data.
+
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: LibAzeriteDataDB
+
+LibAzeriteData.lua
